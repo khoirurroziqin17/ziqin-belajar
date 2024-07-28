@@ -1,0 +1,14 @@
+{
+  "title": "kumer 7 ipa",
+  "root": true,
+  "pages": [
+    "index",
+    "---Bab 1 - Hakikat Ilmu Sains dan Metode Ilmiah---",
+    "hakikat-ilmu-sains-dan-metode-ilmiah/apa-itu-sains",
+    "hakikat-ilmu-sains-dan-metode-ilmiah/laboratorium-ipa",
+    "hakikat-ilmu-sains-dan-metode-ilmiah/merancang-percobaan",
+    "hakikat-ilmu-sains-dan-metode-ilmiah/pengukuran",
+    "hakikat-ilmu-sains-dan-metode-ilmiah/pelaporan-hasil-percobaan",
+    "---Bab 2---"
+  ]
+}

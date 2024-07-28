@@ -1,0 +1,12 @@
+{
+  "title": "kumer 9 ipa",
+  "root": true,
+  "pages": [
+    "index",
+    "---Bab 1 - Pertumbuhan dan Perkembangan---",
+    "pertumbuhan-dan-perkembangan/manusia",
+    "pertumbuhan-dan-perkembangan/hewan",
+    "pertumbuhan-dan-perkembangan/tumbuhan",
+    "---Bab 2---"
+  ]
+}

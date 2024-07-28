@@ -1,0 +1,12 @@
+{
+  "title": "kumer 8 ipa",
+  "root": true,
+  "pages": [
+    "index",
+    "---Bab 1 - Pengenalan Sel---",
+    "pengenalan-sel/sel-dan-mikroskop",
+    "pengenalan-sel/sel-hewan-dan-sel-tumbuhan",
+    "pengenalan-sel/spesialisasi-sel",
+    "---Bab 2---"
+  ]
+}
